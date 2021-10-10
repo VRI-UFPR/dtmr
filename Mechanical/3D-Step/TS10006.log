@@ -1,0 +1,39 @@
+STEP translation to Solid Edge
+Date: sábado,outubro 09,2021 03:44
+Source File: C:\Users\gusta\OneDrive\Área de Trabalho\3D-Step\TS10006.stp
+Author: none
+Organization: none
+Source System: CATIA V5 STEP AP214
+
+Hardware:
+Processor: Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz
+Operating System: Windows 8
+Installed Memory: 15.87 GB
+
+Software Information
+Parasolid Version: 29.0.122
+PSBodyShop Version: 29.0.68
+Step Adapter Version: 2.0.152
+Solid Edge Version: 109.00.00.111 x64
+
+Step Import Options
+Import Faceted Bodies: On
+Import Check Bodies: Off
+Import Curves: On
+Import DoNotSave: On
+Import Multiple Bodies As Single Part File: On
+Import Stitch Surfaces: On
+Import Boolean Solids: On
+Make Base Feature: On
+Simplify Geometry: On
+Import Imprint Curves: On
+Import Drive: C:
+Import Stitch Surfaces: On
+Import Surfaces: On
+Import Output Path: C:\Users\gusta\OneDrive\Área de Trabalho\3D-Step
+Import Enable Default Output Path: On
+Import Path: 
+
+Translating to Parasolid data types...
+Translation process completed
+Total time required to translate and post process:00 : 00 : 01
